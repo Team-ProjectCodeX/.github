@@ -75,7 +75,7 @@
 
 <p align="center">
   We're always looking for talented individuals to join our team.<br>
-  Check out our <a href="https://t.me/ProjectCodex">TG Support Group</a> for collaborations.
+  Check out our <a href="https://t.me/ProjectCodeXsupport">TG Support Group</a> for collaborations.
 </p>
 
 <!-- Contact -->
