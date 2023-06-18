@@ -75,14 +75,14 @@
 
 <p align="center">
   We're always looking for talented individuals to join our team.<br>
-  Check out our <a href="https://t.me//ProjectCodex">TG Support Group</a> for collabrations.
+  Check out our <a href="https://t.me/ProjectCodex">TG Support Group</a> for collaborations.
 </p>
 
 <!-- Contact -->
 <h2 align="center">📬 Contact Us</h2>
 <p align="center">
   For any inquiries or questions, feel free to reach out to us at<br>
-  <a href="mailto:Makandu2054@gmail.com.com">contact@ProjectCodeX</a>
+  <a href="mailto:Makandu2054@gmail.com">contact@ProjectCodeX</a>
 </p>
 <p align="center">
   We're excited to have you as part of our community!<br>
