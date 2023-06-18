@@ -18,7 +18,10 @@
 
 <!-- Badges -->
 ---
-[![](https://visitcount.itsvg.in/api?id=Team-ProjectCodeX&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in/api?id=Team-ProjectCodeX&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=Team-ProjectCodeX&icon=0&color=0" alt="Visit Count">
+  </a>
 </p>
 
 <!-- Featured Projects -->
