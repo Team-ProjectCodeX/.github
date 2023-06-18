@@ -60,7 +60,7 @@
 <p align="center">
   <a href="https://github.com/Team-ProjectCodeX/discussions">💬 Participate in Discussions</a> |
   <a href="https://twitter.com/organization">🐦 Follow us on Twitter</a> |
-  <a href="https://youtube.com/organization">📺 Subscribe to our YouTube channel</a>
+  <a href="https://t.me/ProjectCodeX">📱 Subscribe to our Telegram channel</a>
 </p>
 
 <!-- Contribute to Blog -->
@@ -69,7 +69,7 @@
 <p align="center">
   We have an active technical blog where we share insights, tutorials, and best practices.<br>
   Contribute an article and showcase your expertise to a wide audience.<br>
-  Visit our <a href="https://blog.organization.com">Blog</a> for guidelines and more information.
+  Visit our <a href="https://">Blog</a> for guidelines and more information.
 </p>
 
 <!-- Join Our Team -->
