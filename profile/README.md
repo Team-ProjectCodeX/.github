@@ -17,14 +17,8 @@
 </p>
 
 <!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Team-ProjectCodeX?tab=repositories">
-    <img src="https://img.shields.io/github/followers/Team-ProjectCodeX?label=Followers&style=for-the-badge&logo=github" alt="Followers">
-  </a>
-  <a href="https://github.com/Team-ProjectCodeX?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Team-ProjectCodeX?label=Stars&style=for-the-badge&logo=github" alt="Stars">
-  </a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Team-ProjectCodeX&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Featured Projects -->
 <h2 align="center">🔥 Featured Projects</h2>
