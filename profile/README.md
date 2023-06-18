@@ -18,7 +18,6 @@
 
 <!-- Badges -->
 ---
-<p align="center">
 [![](https://visitcount.itsvg.in/api?id=Team-ProjectCodeX&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
