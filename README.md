@@ -77,14 +77,14 @@
 
 <p align="center">
   We're always looking for talented individuals to join our team.<br>
-  Check out our <a href="https://organization.com/careers">Career page</a> for current job openings and details on how to apply.
+  Check out our <a href="https://t.me//ProjectCodex">TG Support Group</a> for collabrations.
 </p>
 
 <!-- Contact -->
 <h2 align="center">📬 Contact Us</h2>
 <p align="center">
   For any inquiries or questions, feel free to reach out to us at<br>
-  <a href="mailto:contact@ProjectCodeX.com">contact@ProjectCodeX.com</a>
+  <a href="mailto:Makandu2054@gmail.com.com">contact@ProjectCodeX</a>
 </p>
 <p align="center">
   We're excited to have you as part of our community!<br>
@@ -98,16 +98,16 @@
 </p>
 <!-- Added social media icons -->
 <p align="center">
-  <a href="https://facebook.com/ProjectCodeX">
+  <a href="https://facebook.com/">
     <img src="https://img.shields.io/badge/Follow-Facebook-%231877F2?style=for-the-badge&logo=facebook" alt="Facebook">
   </a>
-  <a href="https://instagram.com/ProjectCodeX">
+  <a href="https://instagram.com/">
     <img src="https://img.shields.io/badge/Follow-Instagram-%23E4405F?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/company/ProjectCodeX">
+  <a href="https://linkedin.com/company/">
     <img src="https://img.shields.io/badge/Follow-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://youtube.com/ProjectCodeX">
+  <a href="https://youtube.com/">
     <img src="https://img.shields.io/badge/Subscribe-YouTube-%23FF0000?style=for-the-badge&logo=youtube" alt="YouTube">
   </a>
 </p>
