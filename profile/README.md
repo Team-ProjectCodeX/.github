@@ -6,7 +6,7 @@
 <!-- Logo -->
 <p align="center">
   <a href="https://github.com/Team-ProjectCodeX/ProjectCodeX">
-    <img src="https://telegra.ph/file/d029c31772daebefb497b.jpg" alt="Logo" width="450">
+    <img src="https://telegra.ph/file/e59dcfbc61fbd679ae9e2.jpg" alt="Logo" width="450">
   </a>
 </p>
 
