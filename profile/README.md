@@ -1,6 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+ProjectCodeX;Explore+the+world+of+code;Sharing+exciting+projects+and+scripts;Enjoy+your+stay!&width=500&height=180">
+  <img src="https://readme-typing-svg.herokuapp.com?color=DC143C&center=true&lines=Welcome+to+ProjectCodeX;Explore+the+world+of+code;We+share+exciting+projects+and+scripts;Enjoy+your+stay!&width=500&height=180">
 </p>
 
 <!-- Logo -->
