@@ -16,14 +16,6 @@
   Join us on our mission to provide high-quality code-related content, foster a collaborative environment, and develop exciting projects that push the boundaries of innovation. 🚀
 </p>
 
-<!-- Badges -->
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Team-ProjectCodeX&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=Team-ProjectCodeX&icon=0&color=0" alt="Visit Count">
-  </a>
-</p>
-
 <!-- Featured Projects -->
 <h2 align="center">🔥 Featured Projects</h2>
 
